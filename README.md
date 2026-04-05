@@ -1,27 +1,6 @@
-# CN LAB-7: Multi-Client Chat Application (TCP, C)
+# Multi-Client Chat Application (TCP, C)
 
 A multi-client chat system implemented in C using TCP sockets and POSIX threads as part of Computer Networks Lab-7.
-
----
-
-## Group Details
-
-| Name         | Roll No   |
-|--------------|-----------|
-| Adityaa Saha | 23CS01002 |
-| Debtanu Das  | 23CS01016 |
-
----
-
-## Objective
-
-Design and implement a Client-Server Chat Application using TCP sockets in C that:
-
-- Handles multiple clients simultaneously
-- Supports client join and disconnect
-- Enables communication between clients via server
-- Allows broadcasting messages
-- Includes additional functionalities
 
 ---
 
